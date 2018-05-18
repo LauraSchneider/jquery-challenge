@@ -31,7 +31,7 @@ $(document).ready(function() {
             year: {
                 required: true,
                 validYear: true
-            }
+            },
         },
         messages: {
             month: {
@@ -39,9 +39,9 @@ $(document).ready(function() {
             },
             year: {
                 required: "Please enter the expiration year."
-            }
+            },
         }, highlight: function(messages) {
             $('messages').addClass('error');
-        }
+        },
     });
 });
