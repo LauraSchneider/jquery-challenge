@@ -14,7 +14,7 @@ If the user tries to submit an empty form, the user would be prompted with messa
 
 
 
-If the user incorrectly fills out the form, a message will prompt the user to please input a valid month.
+If the user incorrectly fills out the form, a message will prompt the user to input a valid month.
 
 ​			<img src="demo_error.gif">
 
